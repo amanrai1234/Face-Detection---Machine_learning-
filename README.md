@@ -1,5 +1,5 @@
-# Face-Detection-Survey-Paper
-Face Detection Survey Paper
+# Face-Detection-Work
+
 
 ![Survey Paper_page-0001](https://github.com/amanrai1234/Face-Detection-Survey-Paper/assets/37281887/935363f8-f61d-4cb0-8e39-46ab1608558b)
 ![Survey Paper_page-0002](https://github.com/amanrai1234/Face-Detection-Survey-Paper/assets/37281887/cb0828ca-31af-44df-b1e7-381e1aa1bf52)
